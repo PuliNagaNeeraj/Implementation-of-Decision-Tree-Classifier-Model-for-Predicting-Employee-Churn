@@ -22,12 +22,12 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: PULI NAGA NEERAJ
 RegisterNumber:  212223240130
 ```
-
+```
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data.head()
 data.info()
-
+```
 ## Output:
 ![image](https://github.com/Abburehan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138849336/2f8ae172-9105-42eb-aa10-31a6b4cfa0f5)
 
